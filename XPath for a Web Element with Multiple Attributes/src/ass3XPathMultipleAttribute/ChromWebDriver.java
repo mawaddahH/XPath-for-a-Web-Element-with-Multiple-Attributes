@@ -65,7 +65,7 @@ public class ChromWebDriver {
 		WebElement relativeXPathMethod = driver.findElement(By.
 				xpath("//input[@name='field_profile_surname[0][value]'][@id='edit-field-profile-surname-0-value']"));
 		
-		// click on web element
+		// Enter word on web element
 		relativeXPathMethod.sendKeys("Hanbali");
 
 		// Delay execution for 5 seconds after find specific web element
