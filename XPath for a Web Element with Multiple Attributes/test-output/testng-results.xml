@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-27T03:24:04 AST" name="Default suite" finished-at="2022-07-27T03:24:24 AST" duration-ms="20013">
+    <groups>
+    </groups>
+    <test started-at="2022-07-27T03:24:04 AST" name="Default test" finished-at="2022-07-27T03:24:24 AST" duration-ms="20013">
+      <class name="ass3XPathMultipleAttribute.ChromWebDriver">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ass3XPathMultipleAttribute.ChromWebDriver@7880cdf3]" started-at="2022-07-27T03:24:04 AST" name="setUp" finished-at="2022-07-27T03:24:09 AST" duration-ms="5130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LearnEnglishWebSite()[pri:0, instance:ass3XPathMultipleAttribute.ChromWebDriver@7880cdf3]" started-at="2022-07-27T03:24:09 AST" name="LearnEnglishWebSite" finished-at="2022-07-27T03:24:23 AST" duration-ms="14566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LearnEnglishWebSite -->
+        <test-method is-config="true" signature="terminateBrowser()[pri:0, instance:ass3XPathMultipleAttribute.ChromWebDriver@7880cdf3]" started-at="2022-07-27T03:24:23 AST" name="terminateBrowser" finished-at="2022-07-27T03:24:24 AST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- ass3XPathMultipleAttribute.ChromWebDriver -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
